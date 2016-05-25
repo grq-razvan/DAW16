@@ -1,0 +1,42 @@
+<newspaper>
+  <entry>
+    <language>ro</language>
+    <id>1</id>
+    <title>Stire 1</title>
+    <shortdescription>Prima stire...</shortdescription>
+    <content>Dupa 2 absente, campionul la codat, Grecu, se intoarce.</content>
+    <author>Radi</author>
+    <date>03.03.2016</date>
+    <image>/assets/private/images/image01.jpg</image>
+  </entry>
+  <entry>
+    <language>en</language>
+    <id>1</id>
+    <title>First news</title>
+    <shortdescription>Headline</shortdescription>
+    <content>Fighting champ Steve is back, locked and loaded.</content>
+    <author>Radi</author>
+    <date>03.03.2016</date>
+    <image>/assets/private/images/image01.jpg</image>
+  </entry>
+  <entry>
+    <language>ro</language>
+    <id>2</id>
+    <title>Stire 2</title>
+    <shortdescription>Nu mai a doua stire...</shortdescription>
+    <content>Hyperloop devine o realitate! 10 minute pana in Viena!</content>
+    <author>Joschi</author>
+    <date>10.02.2015</date>
+    <image>/assets/private/images/image02.jpg</image>
+  </entry>
+  <entry>
+    <language>en</language>
+    <id>2</id>
+    <title>New news</title>
+    <shortdescription>2nd news item...</shortdescription>
+    <content>10 minutes to Vienna! Hyperloop is for real</content>
+    <author>Joschi</author>
+    <date>10.02.2015</date>
+    <image>/assets/private/images/image02.jpg</image>
+  </entry>
+</newspaper>
