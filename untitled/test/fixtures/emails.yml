@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sender: MyString
+  content: MyString
+  receiver: MyString
+  date: 2016-04-05 10:15:28
+
+two:
+  sender: MyString
+  content: MyString
+  receiver: MyString
+  date: 2016-04-05 10:15:28
